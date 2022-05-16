@@ -2,7 +2,6 @@
 
 Решение:
 
- // Список курсов
     let courses = [
         {name: "Courses in England", prices: [0, 100]},
         {name: "Courses in Germany", prices: [500, null]},
